@@ -1,0 +1,32 @@
+__label__VACATION-REQUEST	хотеть отпуск
+__label__VACATION-REQUEST	отдыхать
+__label__VACATION-REQUEST	взять отпуск
+__label__VACATION-REQUEST	хотеть отгул следующий неделя
+__label__VACATION-REQUEST	хотеть улетать турция
+__label__VACATION-REQUEST	нужно день отпуск следующий неделя
+__label__VACATION-REQUEST	уходить отпуск октябрь
+__label__VACATION-REQUEST	отдыхать
+__label__VACATION-REQUEST	нужно взять пара день выходной
+__label__VACATION-REQUEST	очень хотеть отдыхать
+__label__SALARY-REQUEST	сколько зарабатывать
+__label__SALARY-REQUEST	зарплата март
+__label__SALARY-REQUEST	сколько заплатить месяц
+__label__SALARY-REQUEST	почему заплатить мало
+__label__SALARY-REQUEST	сколько перевести деньги
+__label__SALARY-REQUEST	прийти зарплата
+__label__SALARY-REQUEST	посмотреть расчетный листок
+__label__SALARY-REQUEST	взять расчетный лист
+__label__SALARY-REQUEST	заплатить
+__label__SALARY-REQUEST	заплатить зарплата
+__label__SALARY-REQUEST	давать зарплата
+__label__SICK-LEAVE-REPORT	заболевать
+__label__SICK-LEAVE-REPORT	горло болеть
+__label__SICK-LEAVE-REPORT	температура
+__label__SICK-LEAVE-REPORT	нужно врач
+__label__SICK-LEAVE-REPORT	хотеть взять больничный
+__label__SICK-LEAVE-REPORT	пойти работа
+__label__SICK-LEAVE-REPORT	плохо чувствовать
+__label__SICK-LEAVE-REPORT	очень болеть голова
+__label__SICK-LEAVE-REPORT	пойти доктор
+__label__SICK-LEAVE-REPORT	нужно посещать врач
+__label__SICK-LEAVE-REPORT	получать больничный

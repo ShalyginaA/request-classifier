@@ -1,0 +1,36 @@
+Пример текста,Класс
+хочу в отпуск,VACATION-REQUEST
+мне бы в отдохнуть,VACATION-REQUEST
+как мне взять отпуск,VACATION-REQUEST
+хочу отгул на следующей неделе,VACATION-REQUEST
+хочу улететь в турцию,VACATION-REQUEST
+нужно два дня отпуска на следующей неделе,VACATION-REQUEST
+уйду в отпуск в октябре,VACATION-REQUEST
+можно я отдохну,VACATION-REQUEST
+мне нужно взять пару дней выходных,VACATION-REQUEST
+я очень хочу отдохнуть,VACATION-REQUEST
+сколько я заработал,SALARY-REQUEST
+какая у меня зарплата за март,SALARY-REQUEST
+сколько мне заплатили в этом месяце,SALARY-REQUEST
+почему мне заплатили так мало,SALARY-REQUEST
+сколько мне переведут денег,SALARY-REQUEST
+когда придет зарплата,SALARY-REQUEST
+посмотреть расчетный листок,SALARY-REQUEST
+где взять расчетный лист,SALARY-REQUEST
+когда мне заплатят,SALARY-REQUEST
+когда заплатят зарплату,SALARY-REQUEST
+дадут ли мне зарплату,SALARY-REQUEST
+я заболел,SICK-LEAVE-REPORT
+горло болит,SICK-LEAVE-REPORT
+у меня температура,SICK-LEAVE-REPORT
+мне нужно к врачу,SICK-LEAVE-REPORT
+хочу взять больничный,SICK-LEAVE-REPORT
+можно я не пойду на работу,SICK-LEAVE-REPORT
+плохо себя чувствую,SICK-LEAVE-REPORT
+очень болит голова,SICK-LEAVE-REPORT
+я пойду в доктору,SICK-LEAVE-REPORT
+мне нужно посетить врача,SICK-LEAVE-REPORT
+как мне получить больничный,SICK-LEAVE-REPORT
+
+
+
