@@ -59,7 +59,8 @@ if __name__== '__main__':
         avg_sum = sum(average_vec)
         
         if avg_sum == 0:
-            print("Проверьте корректность сообщения")
+            print("Предсказанная категория: OTHER")
+            print("Проверьте корректность сообщения, возможно вы сделали ошибку")
         else:
             pred = model.predict(processed_message, k=1)
     
