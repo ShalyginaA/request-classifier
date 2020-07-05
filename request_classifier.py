@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import fasttext
 from pymystem3 import Mystem
+import nltk
+nltk.download("stopwords")
 from nltk.corpus import stopwords
 from string import punctuation
 import re
